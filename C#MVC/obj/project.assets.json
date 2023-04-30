@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CCCC\\.netMVC\\C#MVC\\C#MVC.csproj",
+      "projectUniqueName": "D:\\MVC\\C#MVC\\C#MVC.csproj",
       "projectName": "C#MVC",
-      "projectPath": "D:\\CCCC\\.netMVC\\C#MVC\\C#MVC.csproj",
+      "projectPath": "D:\\MVC\\C#MVC\\C#MVC.csproj",
       "packagesPath": "C:\\Users\\Upgrade\\.nuget\\packages\\",
-      "outputPath": "D:\\CCCC\\.netMVC\\C#MVC\\obj\\",
+      "outputPath": "D:\\MVC\\C#MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\C#components\\NuGetPackages"
